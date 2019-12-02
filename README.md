@@ -1,4 +1,4 @@
-# Miquela- Automatic Music Video Comment Analysis
+# Miquela Video Comment Analysis
 ![Miquela](ss2.jpg)
 
 
