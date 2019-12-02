@@ -1,3 +1,7 @@
+# Miquela- Automatic Music Video Comment Analysis
+![Miquela](ss2.jpg)
+
+
 ### data_preprocessing+model.ipynb 
 Load data
 LDA Model 
