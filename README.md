@@ -1,12 +1,12 @@
-# data_preprocessing+model.ipynb 
+### data_preprocessing+model.ipynb 
 Load data
 LDA Model 
 Sentiment Analysis
 
-# downloader.py
+### downloader.py
 Simple script for downloading Youtube comments without using the Youtube API. The output is in line delimited JSON.
 
-### downloader.py Usage
+#### downloader.py Usage
 ```
 usage: downloader.py [--help] [--youtubeid YOUTUBEID] [--output OUTPUT]
 
@@ -19,5 +19,5 @@ optional arguments:
   --output OUTPUT, -o OUTPUT
                         Output filename (output format is line delimited JSON)
 ```
-# data -- youtube comments in json format
-# lda_model -- saved gensim lda model
+### data -- youtube comments in json format
+### lda_model -- saved gensim lda model
