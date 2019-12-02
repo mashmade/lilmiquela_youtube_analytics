@@ -23,5 +23,7 @@ optional arguments:
   --output OUTPUT, -o OUTPUT
                         Output filename (output format is line delimited JSON)
 ```
-### data -- youtube comments in json format
-### lda_model -- saved gensim lda model
+### data
+youtube comments in json format
+### lda_model
+saved gensim lda model
